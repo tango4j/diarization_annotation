@@ -1,2 +1,2 @@
-# diarization_annoration
+# diarization_annotation
 Diarization annotation files 
